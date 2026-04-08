@@ -1,0 +1,6 @@
+# IR-2026-Grupo4-Tema13 — Denominación fonológica
+# Instalación (obligatoria para el docente):  pip install -r requirements.txt
+#
+# Este proyecto no declara paquetes en PyPI: usa solo la biblioteca estándar de Python 3.10+.
+# Tkinter viene incluido con Python en Windows y macOS.
+# En Linux, antes:  sudo apt install python3-tk
