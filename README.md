@@ -1,5 +1,5 @@
 # IR-2026-Grupo4-Naming
-# IR-2026-Grupo4-Tema13 — Test de denominación fonológica (digital)
+# IR-2026-Grupo4-Tema13 — Test de denominación fonológica 
 
 **Grupo 4 — Cognición y lenguaje — Tema 13**  
 Trabajo práctico — Ingeniería de la Rehabilitación (UNSAM).
@@ -57,7 +57,7 @@ Pensada para **pacientes post-ACV**: alto contraste, tipografía grande, botones
 ├── requirements.txt
 ├── README.md
 ├── assets/images/       # Imágenes PNG de estímulos (rutas relativas)
-├── results/             # JSON generados (no versionar datos reales de pacientes)
+├── results/             # JSON generados 
 └── tests/test_metrics.py
 ```
 
